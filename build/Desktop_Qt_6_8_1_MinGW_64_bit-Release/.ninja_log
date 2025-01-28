@@ -1,0 +1,23 @@
+# ninja log v6
+19	813	7597245446055275	qt-sistema-de-estoque_autogen/timestamp	b449d2f253aea4f6
+829	17847	7597245454180406	CMakeFiles/qt-sistema-de-estoque.dir/main.cpp.obj	b28558b1aafb4a93
+19	813	7597245446055275	qt-sistema-de-estoque_autogen/mocs_compilation.cpp	b449d2f253aea4f6
+19	813	7597245446055275	C:/Users/Givaldo/Documents/Coding/C++/LP1/qt-sistema-de-estoque/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/qt-sistema-de-estoque_autogen/timestamp	b449d2f253aea4f6
+17847	23138	7597245624336725	CMakeFiles/qt-sistema-de-estoque.dir/adicionarwindow.cpp.obj	7f468bcb2ecb9ae4
+815	17859	7597245454024012	CMakeFiles/qt-sistema-de-estoque.dir/qt-sistema-de-estoque_autogen/mocs_compilation.cpp.obj	955e5349d2db8eb7
+19	813	7597245446055275	C:/Users/Givaldo/Documents/Coding/C++/LP1/qt-sistema-de-estoque/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/qt-sistema-de-estoque_autogen/mocs_compilation.cpp	b449d2f253aea4f6
+850	19372	7597245454492988	CMakeFiles/qt-sistema-de-estoque.dir/mainwindow.cpp.obj	e2dad275fd192660
+23138	25068	7597245677305328	qt-sistema-de-estoque.exe	b8929d71d2e97f82
+131	356	7597243103686341	CMakeFiles/clean.additional	321391b2684b2653
+356	415	7597243105873985	clean	577b940aee94fbd7
+140	286	7597266254721969	CMakeFiles/clean.additional	321391b2684b2653
+287	378	7597266256202138	clean	577b940aee94fbd7
+193	4177	7597266395406584	qt-sistema-de-estoque_autogen/timestamp	b449d2f253aea4f6
+193	4177	7597266395406584	qt-sistema-de-estoque_autogen/mocs_compilation.cpp	b449d2f253aea4f6
+193	4177	7597266395406584	C:/Users/Givaldo/Documents/Coding/C++/LP1/qt-sistema-de-estoque/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/qt-sistema-de-estoque_autogen/timestamp	b449d2f253aea4f6
+193	4177	7597266395406584	C:/Users/Givaldo/Documents/Coding/C++/LP1/qt-sistema-de-estoque/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release/qt-sistema-de-estoque_autogen/mocs_compilation.cpp	b449d2f253aea4f6
+4223	33019	7597266400553782	CMakeFiles/qt-sistema-de-estoque.dir/main.cpp.obj	b28558b1aafb4a93
+4179	33758	7597266400241363	CMakeFiles/qt-sistema-de-estoque.dir/qt-sistema-de-estoque_autogen/mocs_compilation.cpp.obj	955e5349d2db8eb7
+4262	38018	7597266401022689	CMakeFiles/qt-sistema-de-estoque.dir/mainwindow.cpp.obj	e2dad275fd192660
+33020	42560	7597266688534962	CMakeFiles/qt-sistema-de-estoque.dir/adicionarwindow.cpp.obj	7f468bcb2ecb9ae4
+42560	45717	7597266784041881	qt-sistema-de-estoque.exe	b8929d71d2e97f82

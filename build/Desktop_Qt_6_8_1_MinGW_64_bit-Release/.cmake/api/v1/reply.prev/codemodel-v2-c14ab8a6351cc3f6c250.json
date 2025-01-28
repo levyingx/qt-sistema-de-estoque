@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-963d9f058d0bd77783d4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qt-sistema-de-estoque",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qt-sistema-de-estoque::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt-sistema-de-estoque-Release-f715378907e1747f1d3c.json",
+					"name" : "qt-sistema-de-estoque",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt-sistema-de-estoque_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt-sistema-de-estoque_autogen-Release-6bb259c1492103b586e8.json",
+					"name" : "qt-sistema-de-estoque_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt-sistema-de-estoque_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt-sistema-de-estoque_autogen_timestamp_deps-Release-9e786df2dcc16a466b15.json",
+					"name" : "qt-sistema-de-estoque_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Givaldo/Documents/Coding/C++/LP1/qt-sistema-de-estoque/build/Desktop_Qt_6_8_1_MinGW_64_bit-Release",
+		"source" : "C:/Users/Givaldo/Documents/Coding/C++/LP1/qt-sistema-de-estoque"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
